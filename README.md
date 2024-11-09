@@ -1,15 +1,15 @@
-# Okineadev Dotload
+# cli-stuff Dotload
 
 ## How do I install these formulae?
 
-`brew install okineadev/dotload/<formula>`
+`brew install cli-stuff/dotload/<formula>`
 
-Or `brew tap okineadev/dotload` and then `brew install <formula>`.
+Or `brew tap cli-stuff/dotload` and then `brew install <formula>`.
 
 Or, in a [`brew bundle`](https://github.com/Homebrew/homebrew-bundle) `Brewfile`:
 
 ```ruby
-tap "okineadev/dotload"
+tap "cli-stuff/dotload"
 brew "<formula>"
 ```
 
